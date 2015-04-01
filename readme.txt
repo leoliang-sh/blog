@@ -1,1 +1,2 @@
-do some text
+this is my first github repository
+
